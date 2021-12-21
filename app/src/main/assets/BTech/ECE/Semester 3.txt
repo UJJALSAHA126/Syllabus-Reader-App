@@ -1,0 +1,34 @@
+This Is A Temporary Syllabus.
+
+This Is For CSE SEM 3
+
+
+
+Course Name: Linear Algebra and Differential Equations 
+Course Code: BSC(CSE)201 
+Contact: 3L+1T 
+Credit: 4 
+No. of Lectures: 36+12
+
+Module 1: Matrices
+Basic Operations on Matrices, Determinants, Cramer’s Rule, Inverse of a Matrix using Gauss Jordan Elimination, Rank of a Matrix, Solution of System of Linear Equations: Gauss Elimination Method.
+
+Module 2: Vector Spaces-I
+Vector Space, Linear Independence of Vectors, Basis, Dimension; Linear Transformations (Maps), Range and Kernel of a Linear Map, Rank, Nullity, Rank-Nullity Theorem, Inverse of a Linear Transformation, Composition of Linear Maps, Matrix associated with a Linear Map.
+
+Module 3: Vector Spaces-II
+Eigen values, Eigenvectors, Symmetric, Skew-symmetric, and Orthogonal Matrices, Eigenfaces, Diagonalization, Inner Product Spaces, Gram-Schmidt Orthogonalization.
+
+Module 4: Ordinary Differential Equations
+Basic Concepts, Exact Differential Equations, Linear Differential Equations of Second and Higher Order with Constant Coefficients, Method of Variation of Parameters, Cauchy-Euler Equation, System of linear Differential Equations with Constant Coefficients, Applications of Linear Differential Equations.
+
+Module 5: Partial Differential Equations
+ Basic Concepts, Classification of Second Order Linear PDE, Method of Separation of Variables and its application in solving Wave Equation (one dimension), Heat Equation (one dimension) and Laplace’s equation (two dimensions).
+
+Text Books: 
+1. Poole D., Linear Algebra: A Modern Introduction, 2nd Edition, Brooks/Cole, 2005. 
+2. Kreyszig Erwin, Advanced Engineering Mathematics, 10th Edition, John Wiley & Sons, 2010. 
+3. Jain R. K. and Iyengar S.R.K, Advanced Engineering Mathematics, 5th Edition, Narosa Publishers, 2016. 
+
+Reference Books: 
+1. Peter V. O’Neil, Advanced Engineering Mathematics, 7th Edition, Cengage Learning, 2012. 2. Grewal B. S, Higher Engineering Mathematics, Khanna Publishers, 35th Edition, 2000.

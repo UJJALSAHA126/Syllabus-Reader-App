@@ -1,0 +1,7 @@
+
+private val url: String = "https://alpha-meme-maker.herokuapp.com/"
+
+@BEST
+private val url: String = "https://meme-api.herokuapp.com/gimme"
+
+private val url: String = "https://jsonplaceholder.typicode.com/todos/"

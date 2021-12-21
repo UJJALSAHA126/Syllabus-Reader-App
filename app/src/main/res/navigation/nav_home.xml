@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_home"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.syllabusreader.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/home_to_syllabusFragment"
+            app:destination="@id/syllabusFragment"
+            app:enterAnim="@anim/from_bottom"
+            app:exitAnim="@anim/to_top"
+            app:popEnterAnim="@anim/from_right"
+            app:popExitAnim="@anim/to_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/syllabusFragment"
+        android:name="com.example.syllabusreader.fragments.SyllabusFragment"
+        android:label="fragment_syllabus"
+        tools:layout="@layout/fragment_syllabus" >
+        <argument
+            android:name="syllabusData"
+            app:argType="com.example.syllabusreader.model.Syllabus" />
+    </fragment>
+</navigation>
